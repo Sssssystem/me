@@ -1,4 +1,4 @@
-# what
+# me
 # 这是我的一个可以在Termux上运行的脚本文件
 # 其中部分代码来源于Nibazshab的when
 # 并且已经获得了授权
